@@ -2,6 +2,8 @@
 
 音声対話型のAIアシスタントアプリケーションです。Web Speech APIを使用した音声認識と、Perplexity AI APIを活用した知識検索機能を提供します。
 
+<img width="500" alt="AIコンシェルジュ" src="https://github.com/user-attachments/assets/e616a445-784d-480b-8b13-42873597e494" />
+
 ## 🚀 機能
 
 - **音声対話**: マイクボタンを押して話しかけるだけでAIと対話
