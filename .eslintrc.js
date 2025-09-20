@@ -10,7 +10,6 @@ module.exports = {
   },
   extends: [
     'eslint:recommended',
-    '@next/eslint-plugin-next/recommended',
   ],
   parser: '@typescript-eslint/parser',
   parserOptions: {
